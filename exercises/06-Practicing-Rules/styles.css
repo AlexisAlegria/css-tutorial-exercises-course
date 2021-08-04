@@ -1,1 +1,24 @@
 /* add your styles here */
+body {
+	font-family: "Times New Roman";
+	padding-left: 20px;
+	background: url(https://github.com/4GeeksAcademy/css-tutorial-exercises-course/blob/master/.learn/assets/background-vertical.jpg?raw=true)
+		repeat-y;
+}
+h1 {
+	font-family: Courier;
+	color: red;
+	vertical-align: middle;
+}
+h2 {
+	text-decoration: underline;
+}
+#id1 {
+	background: rgba(255, 255, 255, 0.5) 5px;
+}
+a {
+	text-decoration: none;
+}
+a:hover {
+	color: green;
+}
