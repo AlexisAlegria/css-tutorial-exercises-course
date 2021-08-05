@@ -1,4 +1,9 @@
-/** Insert your code here **/
+.ulred {
+	color: red;
+}
+tr:nth-child(odd) {
+	background: yellow;
+}
 
 /*********** READ ONLY BLOCK ******
 You CAN NOT UPDATE anything from here on,
